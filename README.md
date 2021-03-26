@@ -44,23 +44,23 @@ After this tutorial you will know how to disable that!
 
 #### 3. Add permission settings for bot roles
 
-![](https://www.directupload.net/file/d/6134/wrvqzm7v_png)
+![](https://s18.directupload.net/images/210326/wrvqzm7v.png)
 
 #### 4. Select bot roles
 
-![](https://www.directupload.net/file/d/6134/sdrzcddh_png)
+![](https://s16.directupload.net/images/210326/sdrzcddh.png)
 
 #### 5. Disable text permissions
 
-![](https://www.directupload.net/file/d/6134/a9j4z4mp_png)
+![](https://s8.directupload.net/images/210326/a9j4z4mp.png)
 
 #### 6. **Save changes**
 
-![](https://www.directupload.net/file/d/6134/l88wckwk_png)
+![](https://s18.directupload.net/images/210326/l88wckwk.png)
 
 #### 7. Do the same for all roles the bot has
 
-![](https://www.directupload.net/file/d/6134/8ztk5d2k_png)
+![](https://s8.directupload.net/images/210326/8ztk5d2k.png)
 
 # Important notes
 
